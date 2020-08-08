@@ -15,14 +15,12 @@
    <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">    
   
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
  
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
   
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
  
