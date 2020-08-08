@@ -1,6 +1,3 @@
-### Hi there 👋
-
-![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&hide_border=true)
 
 <!--
 **samuelsandoval1/samuelsandoval1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Samuel Sandoval </h1>
+<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&hide_border=true)
