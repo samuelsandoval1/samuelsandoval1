@@ -26,7 +26,7 @@
  
 </p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
+- 👨🏻‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
 - 📫 How to reach me **sjsandoval1000@gmail.com**
 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
