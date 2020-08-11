@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Sandoval </h1>
-<h3 align="center">A passionate Software Developer and Open Source contributor  </h3>
+<h3 align="center">A passionate Software Developer, and Open Source Contributor</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
   
--<h1> I work with <h1>
+<h3> I work with <h3>
 
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    
