@@ -30,3 +30,5 @@
 - 📫 How to reach me **sjsandoval1000@gmail.com**
 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsandoval1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
