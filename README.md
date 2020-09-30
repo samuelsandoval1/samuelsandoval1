@@ -31,4 +31,5 @@
 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsandoval1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)](http://buymeacoff.ee/samuelsandoval)
 
