@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
   
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
  
 </p>
