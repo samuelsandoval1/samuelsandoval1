@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Sandoval </h1>
 <h3 align="center">A passionate Software Developer, and Open Source Contributor</h3>
 
-![image](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
   
