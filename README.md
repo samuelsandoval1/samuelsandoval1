@@ -20,15 +20,12 @@
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-  
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
- 
+   
 </p>
 
 - 👨🏻‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
 - 📫 How to reach me **sjsandoval1000@gmail.com**
 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsandoval1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)](http://buymeacoff.ee/samuelsandoval)
 
