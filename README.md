@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Sandoval </h1>
-<h3 align="center">A passionate Software Developer, and Open Source Contributor</h3>
+<h3 align="center">A passionate Software Developer, and aspiring Developer Advocate.</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
