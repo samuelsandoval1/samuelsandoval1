@@ -24,7 +24,7 @@
 </p>
 
 - 👨🏻‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
-- 📫 How to reach me **sjsandoval1000@gmail.com**
+- 📫 How to reach me **sam@samuelsandoval.me**
 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
 [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)](http://buymeacoff.ee/samuelsandoval)
