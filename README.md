@@ -7,25 +7,27 @@
   
 <h3> I work with... <h3>
 
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">     
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">    
-   <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:4px">    
-  
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
- 
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/samuelsandoval1/samuelsandoval1/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-   
+ <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+ <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+ <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+ <img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+ <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+ <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> 
 </p>
 
 - 👨🏻‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
 - 📫 How to reach me **sam@samuelsandoval.me**
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight)
 [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)](http://buymeacoff.ee/samuelsandoval)
 
