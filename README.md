@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Sandoval </h1>
-<h3 align="center">A passionate Software Developer, and aspiring Product Manager.</h3>
+<h3 align="center">3rd year CS student at CSUF. Passionate developer and aspiring PM.</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
