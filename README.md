@@ -4,6 +4,8 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <!--- Badge Link https://github.com/alexandresanlim/Badges4-README.md-Profile --->
+<h3>Recent Work</h3>
+
 
 <p align="left">
 <h3> I work with... <h3>
@@ -26,8 +28,7 @@
 
 - 👨🏻‍💻 All of my projects are available  [here](https://github.com/samuelsandoval1?tab=repositories)
 - 📫 How to reach me **sam@samuelsandoval.me**
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
 <!-- 
 ![Sam Sandovals's github stats](https://github-readme-stats.vercel.app/api?username=samuelsandoval1&show_icons=true&theme=tokyonight) 
 -->
