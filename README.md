@@ -5,6 +5,10 @@
 
 <!--- Badge Link https://github.com/alexandresanlim/Badges4-README.md-Profile --->
 <h3>Recent Work</h3>
+<p><em>CEO and cofounder of <a href="https://tuffyhacks.com/">TuffyHacks</a></em></p>
+<p><em>Former Dev Director at <a href="https://acmcsuf.com/">acmCSUF</a></em></p>
+<p><em>Ex <a href="https://microsoft.com/">Microsoft</a> and <a href="https://google.com/">Google</a> employee. </em></p>
+
 
 
 <p align="left">
